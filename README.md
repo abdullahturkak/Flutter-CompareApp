@@ -1,5 +1,5 @@
 # Flutter Compare App
-<img src="[https://user-images.githubusercontent.com/16319829/81180309-2b51f000-8fee-11ea-8a78-ddfe8c3412a7.png](https://user-images.githubusercontent.com/62934261/209443494-82b1a26a-c349-47e2-9ee8-7ba221169670.jpeg)" width=50% height=50%>
+<img src="https://user-images.githubusercontent.com/62934261/209443494-82b1a26a-c349-47e2-9ee8-7ba221169670.jpeg" width="150" height="280">
 ![WhatsApp Image 2022-12-24 at 19 04 10](https://user-images.githubusercontent.com/62934261/209443494-82b1a26a-c349-47e2-9ee8-7ba221169670.jpeg)
 ![WhatsApp Image 2022-12-24 at 19 04 09 (1)](https://user-images.githubusercontent.com/62934261/209443497-10baec1d-b286-4ff3-a1e1-1b7377b0f6a5.jpeg)
 ![WhatsApp Image 2022-12-24 at 19 04 09](https://user-images.githubusercontent.com/62934261/209443499-3c115547-119c-4590-bcf8-b24d5f711b0d.jpeg)
